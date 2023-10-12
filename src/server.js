@@ -6,7 +6,8 @@ config();
 
 const pool = new pg.Pool({
   connectionString: process.env.DATABASE_URL,
-  ssl: true,
+  // El ssl solo se usa cuando se trabaja con un servidor de prueba
+  // ssl: true,
 });
 
 const PORT = process.env.PORT_SERVER || 8080;
