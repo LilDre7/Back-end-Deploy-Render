@@ -3,4 +3,6 @@
 - Proyecto para probar render.
 - Proyecto basado con una APIREST
 
-🦕 create @lil dree
+```sh
+ 🧑🏾‍💻 Alvaro Aburto Ocampo
+```
