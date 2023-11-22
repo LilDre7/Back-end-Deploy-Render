@@ -1,18 +1,18 @@
-# Foobar
+# BACK-END DESPLEGADO CON RENDER 🛠️
 
-Foobar is a Python library for dealing with word pluralization.
+Un proyecto con el stack MERN
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+npm run dev
 ```
 
 ## Usage
 
-```python
+```Nodejs
 import foobar
 
 # returns 'words'
