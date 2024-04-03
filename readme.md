@@ -1,4 +1,4 @@
-# BACK-END DESPLEGADO CON RENDER 🛠️ ñploin
+# BACK-END DESPLEGADO CON RENDER 🛠️ ñplo
 
 Un proyecto con el stack MERN
 
