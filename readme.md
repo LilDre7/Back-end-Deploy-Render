@@ -1,4 +1,4 @@
-# BACK-END DESPLEGADO CON RENDER 🛠️ fffdasas
+# BACK-END DESPLEGADO CON RENDER 🛠️ fffd
 
 Un proyecto con el stack MERN
 
